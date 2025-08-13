@@ -1,8 +1,7 @@
 # **Botify**
 *Discord bot for controlling Spotify playback directly from your server.*
 
-Botify allows you to control your Spotify Premium account via Discord commands — add songs to queue, skip, pause, resume, view history, and much more.
-
+---
 
 ## Commands
 
